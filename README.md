@@ -34,6 +34,8 @@
 ![Gitkraken](https://img.shields.io/badge/Gitkraken-2a2a3d?style=for-the-badge&logo=gitkraken&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-585858?style=for-the-badge&logo=wireshark&logoColor=white)
 
+<h3> 📊 Statistics </h3>
+
 <img src="https://github-readme-stats.vercel.app/api?username=ferherque&show_icons=true" alt="ferherque" />
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3> 
