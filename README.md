@@ -21,7 +21,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Travis](https://img.shields.io/badge/Travis%20Ci-EC7637?style=for-the-badge&logo=travis)
 ![SonarCloud](https://img.shields.io/badge/SonarCloud-e36200?style=for-the-badge&logo=sonarcloud&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-212057?style=for-the-badge&logo=electron)
+![Electron](https://img.shields.io/badge/Electron-212057?style=for-the-badge&logo=electron&logoColor=white)
 
 <h3> 🛠 Tools </h3>
 
