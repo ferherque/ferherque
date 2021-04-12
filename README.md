@@ -38,7 +38,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=ferherque&show_icons=true" alt="ferherque" />
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3> 
+<h3> 🤝🏻 Connect with Me </h3> 
 
 <p align="center">
 <br>
