@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="left">Hi,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> I'm Fer</h1>
 
 <!--
 **ferherque/ferherque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=bb4r2xyz360rsoi81csez257s&count=1)
+<img src="https://github-readme-stats.vercel.app/api?username=ferherque&show_icons=true" alt="ferherque" />
