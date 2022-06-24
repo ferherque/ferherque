@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Fer <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /></h1>
+<h1 align="left">Hi, I'm Fer</h1>
 
 <h3> 👨🏻‍💻 Languages </h3>
 
