@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Fernando  <img height="50" src="https://cdn3.emoji.gg/emojis/8441-peepohey.gif"></h1>
 	
-- 🎓 I'm a Software Engineer graduated by Universidad de Sevilla.
+- 🎓 I'm a Software Engineer graduated by the University of Sevilla.
 
 - 💻 Currently searching for a job.
 
