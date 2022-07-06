@@ -73,6 +73,6 @@
   
 <h3 align="center">📊 Statistics</h3>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ferherque&show_icons=true&theme=dracula" alt="ferherque" />
+<img src="https://github-readme-stats.vercel.app/api?username=zorgary&show_icons=true&theme=dracula" alt="ferherque" />
 	
 </div>
