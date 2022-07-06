@@ -4,9 +4,9 @@
 
 - 💻 Currently searching for a job.
 
-- 🔭 Always open to learning new things.
+- 🔭 Always open to learn new things.
 
-- ⚡ I love videogames, programming and sports.
+- ⚡ I love videogames, programming and sports in general.
 
 <h3 align="center">👨‍💻 Languages and Tools</h3>
 
