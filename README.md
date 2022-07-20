@@ -2,7 +2,7 @@
 	
 - 🎓 I'm a Software Engineer graduated by the University of Sevilla.
 
-- 💻 Currently searching for a job.
+- 💻 Currently working as a Junior Developer at Deloitte.
 
 - 🔭 Always open to learn new things.
 
