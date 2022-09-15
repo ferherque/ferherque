@@ -2,7 +2,7 @@
 	
 - 🎓 I'm a Software Engineer graduated by the University of Sevilla.
 
-- 💻 Currently working as a Junior Developer at Deloitte.
+- 💻 Currently working as a Full-Stack Developer at Deloitte.
 
 - 🔭 Always open to learn new things.
 
